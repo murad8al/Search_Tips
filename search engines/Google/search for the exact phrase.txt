@@ -1,0 +1,6 @@
+-If you search for emilia clarke and jon snow, you will get results that have all those words,
+	but not necessarily in the order you search. 
+-if you want to get only results that include all those words in that order,
+	Use quotations (" ") to search for the exact phrase.
+-for example:
+	"emilia clarke and jon snow"
