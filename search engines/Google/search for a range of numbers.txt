@@ -1,0 +1,5 @@
+-Insert two periods (..) between numbers to search for a range.
+-if you looking for a computer within a certain price range,
+	so you could search computer $500..$900 to only get results that fit into that range.
+-for example:
+	computer $500..$900
