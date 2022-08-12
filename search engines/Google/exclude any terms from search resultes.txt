@@ -1,0 +1,4 @@
+-Use the minus symbol to exclude all the terms you don't want.
+-for example:
+	cheap phone -iphone
+-you will get results those omit roundups of top iphone
