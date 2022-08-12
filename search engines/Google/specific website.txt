@@ -1,0 +1,5 @@
+-to search in specific website.
+-for example to display search results only from facebook.com.
+-for an experiment, we'll look for Shakira on Facebook.
+Shakira site:facebook.com
+
